@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358875571100",
+    "project_id": "bacaan-pengusir-jin",
+    "storage_bucket": "bacaan-pengusir-jin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358875571100:android:d453b89963ee0f9b815e59",
+        "android_client_info": {
+          "package_name": "com.newandromo.dev364607.app618257"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358875571100-g9m0019epq8eqg6no440gvtvnm7blse0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ7plvAJFa9dLZtDgEkSO1QL-M03mLa44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358875571100-g9m0019epq8eqg6no440gvtvnm7blse0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
